@@ -30,6 +30,21 @@ EDA involved exploring the data about Product reviews made by the consumer to an
 
 - What is the overall distribution of ratings in the beauty product reviews?
 - How is the distribution of ratings visualized across different skin tones in the boxplot?
-- Is there a noticeable pattern in the scatter plots of 'rating' vs. 'helpfulness'? 
+- Is there a noticeable pattern in the scatter plots of 'rating' vs. 'helpfulness'?
+
+### Screenshots
+
+![Screenshot 2023-11-23 232358](https://github.com/saurabh97-bot/Beauty-Product-Reviews-Analysis/assets/80028326/68b7ac92-34a6-49c3-9c88-a9df6b4006d9)
+
+![Screenshot 2023-11-23 232420](https://github.com/saurabh97-bot/Beauty-Product-Reviews-Analysis/assets/80028326/5e8898af-4b5d-4ecc-b9da-1a406da5ec4c)
+
+![Screenshot 2023-11-23 232446](https://github.com/saurabh97-bot/Beauty-Product-Reviews-Analysis/assets/80028326/be30a2bc-bc7e-44ca-961c-9f1a912ecc3e)
+
+![Screenshot 2023-11-23 232508](https://github.com/saurabh97-bot/Beauty-Product-Reviews-Analysis/assets/80028326/b3dfcd3a-284a-4788-b2b3-57b80200d24f)
+
+
+
+
+
 
 

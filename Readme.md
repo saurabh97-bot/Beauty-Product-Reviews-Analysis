@@ -43,6 +43,10 @@ EDA involved exploring the data about Product reviews made by the consumer to an
 ![Screenshot 2023-11-23 232508](https://github.com/saurabh97-bot/Beauty-Product-Reviews-Analysis/assets/80028326/b3dfcd3a-284a-4788-b2b3-57b80200d24f)
 
 
+### Conclusion
+
+In conclusion,the thorough data cleaning,basic statistics calculations,missing values check,and EDA have laid a solid foundation for further in-depth analyses. These preliminary steps have not only enhanced the quality of the dataset but also provided valuable insights that can inform subsequent stages of analysis and decision-making processes.
+
 
 
 
